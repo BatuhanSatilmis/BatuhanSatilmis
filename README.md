@@ -29,6 +29,7 @@
   <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
         <div align="center">
     
-<div style="width:100%;height:0;padding-bottom:74%;position:relative;"><iframe src="https://giphy.com/embed/3ohs86vZAWiJXWvQI0" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/eminem-my-name-is-the-slim-shady-lp-3ohs86vZAWiJXWvQI0">via GIPHY</a></p>
+![giphy](https://user-images.githubusercontent.com/46208188/176069997-5595817e-f467-4e9e-b94b-e92c059a105b.gif)
+
   </div>
 </body>
