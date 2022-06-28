@@ -27,9 +27,5 @@
 <body>
 
   <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
-        <div align="center">
-    
-![giphy](https://user-images.githubusercontent.com/46208188/176069997-5595817e-f467-4e9e-b94b-e92c059a105b.gif)
-
-  </div>
+      
 </body>
