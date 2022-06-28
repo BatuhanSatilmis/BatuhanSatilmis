@@ -31,5 +31,5 @@
     
             <div style="width:50%;height:0;padding-bottom:40%;position:relative;"><iframe src="https://giphy.com/embed/3ohs86vZAWiJXWvQI0" width="50%" height="50%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/eminem-my-name-is-the-slim-shady-lp-3ohs86vZAWiJXWvQI0">via GIPHY</a></p>
         </div>
-
+        </div>
 </body>
