@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **react,vue,angular**
 
-- 👨‍💻 All of my projects are available at [is loading...](is loading...)
+- 👨‍💻 All of my projects are available at [is loading...]
 
 - 💬 Ask me about **java,javascript,swift,objective-c**
 
