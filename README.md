@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Batuhan Satilmis</h1>
+<h2 align="center">Hi 👋, I'm Batuhan Satilmis</h2>
 
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h4 align="center">A passionate frontend developer from Turkey</h4>
 
 - 🏫 Istanbul Aydin University Computer Engineering
 
