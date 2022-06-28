@@ -23,5 +23,12 @@
 
 [CV1.pdf](https://github.com/BatuhanSatilmis/BatuhanSatilmis/files/8996759/CV1.pdf)
 
+<!DOCTYPE html>
+<body>
 
-![animatedkitty](https://user-images.githubusercontent.com/46208188/176069104-01c009be-93e2-4bbf-9406-8bd1c3403fc0.svg)
+  <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
+        <div align="center">
+            <img src="https://thumbs.gfycat.com/ElderlyNiceIsopod-size_restricted.gif">
+        </div>
+
+</body>
